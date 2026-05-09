@@ -243,8 +243,8 @@ We would like to thank the authors of **AR-Net** and **ProDisc-VAD** for releasi
 
 Parts of our training and evaluation pipeline are adapted from the publicly available implementations of AR-Net and ProDisc-VAD. Their well-organized codebases provided valuable references for this work.
 
-- AR-Net: https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020
-- ProDisc-VAD: https://github.com/modadundun/ProDisc-VAD
+- [AR-Net](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
+- [ProDisc-VAD](https://github.com/modadundun/ProDisc-VAD)
 
 ## 📄 License
 
