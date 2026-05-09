@@ -239,12 +239,11 @@ If you find this repository useful for your research, please cite our paper:
 
 ## 🙏 Acknowledgements
 
-We would like to thank the authors of **AR-Net** and **ProDisc-VAD** for releasing their code.
+We would like to thank the authors of **ProDisc-VAD** for releasing their code.
 
-Parts of our training and evaluation pipeline are adapted from the publicly available implementations of AR-Net and ProDisc-VAD. Their well-organized codebases provided valuable references for this work.
+Parts of our training and evaluation pipeline are adapted from the publicly available implementation of ProDisc-VAD. Their codebase provided valuable references for this work.
 
-- AR-Net: https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020
-- ProDisc-VAD: https://github.com/modadundun/ProDisc-VAD
+- [ProDisc-VAD](https://github.com/modadundun/ProDisc-VAD)
 
 ## 📄 License
 
