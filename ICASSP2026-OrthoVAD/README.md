@@ -1,4 +1,4 @@
-# OrthoVAD: Weakly Supervised Video Anomaly Detection via Prototype Orthogonality Learning
+<img width="2226" height="405" alt="image" src="https://github.com/user-attachments/assets/da39d4df-f693-4cce-84b4-4e150b19093a" /># OrthoVAD: Weakly Supervised Video Anomaly Detection via Prototype Orthogonality Learning
 
 ![ICASSP](https://img.shields.io/badge/ICASSP-2026-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-green.svg)
@@ -239,11 +239,12 @@ If you find this repository useful for your research, please cite our paper:
 
 ## 🙏 Acknowledgements
 
-We sincerely thank the researchers and open-source contributors in the field of weakly supervised video anomaly detection. This work is inspired by prior studies on multiple instance learning, temporal feature modeling, feature representation learning, and CLIP-based video anomaly detection.
+We would like to thank the authors of **AR-Net** and **ProDisc-VAD** for releasing their code.
 
-In particular, we acknowledge the contributions of previous representative works, including but not limited to Sultani et al., RTFM, MIST, S3R, VadCLIP, TPWGN, and STPrompt. Their research has provided important foundations and valuable insights for the development of weakly supervised video anomaly detection.
+Parts of our training and evaluation pipeline are adapted from the publicly available implementations of AR-Net and ProDisc-VAD. Their well-organized codebases provided valuable references for this work.
 
-We also thank the authors and maintainers of the UCF-Crime and ShanghaiTech datasets, as well as the developers of PyTorch and related open-source libraries.
+- AR-Net: https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020
+- ProDisc-VAD: https://github.com/modadundun/ProDisc-VAD
 
 ## 📄 License
 
