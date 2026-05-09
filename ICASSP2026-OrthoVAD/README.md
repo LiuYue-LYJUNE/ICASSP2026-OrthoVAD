@@ -1,4 +1,4 @@
-<img width="2226" height="405" alt="image" src="https://github.com/user-attachments/assets/da39d4df-f693-4cce-84b4-4e150b19093a" /># OrthoVAD: Weakly Supervised Video Anomaly Detection via Prototype Orthogonality Learning
+# OrthoVAD: Weakly Supervised Video Anomaly Detection via Prototype Orthogonality Learning
 
 ![ICASSP](https://img.shields.io/badge/ICASSP-2026-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-green.svg)
@@ -243,8 +243,8 @@ We would like to thank the authors of **AR-Net** and **ProDisc-VAD** for releasi
 
 Parts of our training and evaluation pipeline are adapted from the publicly available implementations of AR-Net and ProDisc-VAD. Their well-organized codebases provided valuable references for this work.
 
-- [AR-Net](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
-- [ProDisc-VAD](https://github.com/modadundun/ProDisc-VAD)
+- AR-Net: https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020
+- ProDisc-VAD: https://github.com/modadundun/ProDisc-VAD
 
 ## 📄 License
 
